@@ -127,8 +127,6 @@ The modular code of the project assumes that we already have a trained object de
 
 8. **KPI Calculation:** Calculate Key Performance Indicators (KPIs) such as the total appearance count, largest area percentage, smallest area percentage, and exposure over time comparison to understand the impact of the video on brand exposure.
 
-By following this project workflow, businesses can effectively calculate the brand exposure of their video campaigns and gain insights into the impact of their marketing efforts.
-
 ---
 
 ### **Setting up the Modular Code**
