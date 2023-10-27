@@ -1,4 +1,4 @@
-# Brand(KPIs) Exposure Video Analysis using Tensorflow
+# Brand(KPIs) Exposure using Video Analysis in Tensorflow
 
 ## Business Objective
 
