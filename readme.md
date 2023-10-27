@@ -1,4 +1,4 @@
-# Brand(KPIs) Exposure using Video Analysis in Tensorflow
+# Brand KPIs Analysis using Video Processing in Tensorflow
 
 ## Business Objective
 
