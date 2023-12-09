@@ -1,4 +1,4 @@
-# Brand KPIs Analysis using Video Processing in Tensorflow
+# Brand KPI Analysis using OpenCV Video Processing and Tensorflow
 
 ## Business Objective
 
@@ -85,19 +85,6 @@ The primary objectives of this project are as follows:
 2. `src`: Contains modularized code for various project steps.
 3. `output`: Stores the output data, which includes a dictionary with key performance metrics for each logo.
 4. `lib`: Reference folder containing the original iPython notebook and a reference presentation (ppt).
-
----
-
-## Key Concepts Explored
-
-1. Understanding the business problem and the significance of brand exposure.
-2. Leveraging Python for video data acquisition.
-3. Annotating image data using LabelImg.
-4. Cloning and customizing a model for object detection with TensorFlow.
-5. Training and monitoring a deep learning model for logo detection.
-6. Visualizing training results using TensorBoard.
-7. Implementing logo detection in video frames.
-8. Calculating KPI metrics to measure brand exposure.
 
 ---
 
